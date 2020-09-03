@@ -1,0 +1,3 @@
+Title:AI Trained on Moon Craters Is Helping Find Unexploded Bombs From the Vietnam War
+Description:Theres still no completely safe and surefire method for locating unexploded ordinance after a war is over but researchers at Ohio State University have found a way to harness image processing algorithms powered by machine learning to study satellite image
+Content:Theres still no completely safe and surefire method for locating unexploded ordinance after a war is over but researchers at Ohio State University have found a way to harness image processing algorithms powered by machine learning to study satellite imager 2343 chars

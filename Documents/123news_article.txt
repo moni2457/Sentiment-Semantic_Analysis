@@ -1,0 +1,3 @@
+Title:Researchers Built an App That Aims to Detect Covid19 by Listening to Your Coughs
+Description:One of the major problems right now with tackling the novel coronavirus is that tests arent widely available for everyone. To help fix that researchers from Carnegie Mellon University have developed a free experimental app that uses artificial intelligence
+Content:One of the major problems right now with tackling the novel coronavirus is that tests arent widely available for everyone. To help fix that researchers from Carnegie Mellon University have developed a free experimental app that uses artificial intelligence  2436 chars

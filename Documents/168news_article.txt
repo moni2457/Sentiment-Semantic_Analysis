@@ -1,0 +1,4 @@
+Title:Researchers use AI to translate text found on ancient clay tablets
+Description:Scientists at the University of Chicago are developing a machine learning system that can automatically transcribe text found on ancient clay tablets. The DeepScribe system will initially focus on transcribing the Cuneiform writing system used in the ancient 
+Content:Scientists at the University of Chicago are developing a machine learning system that can automatically transcribe text found on ancient clay tablets.
+The DeepScribe system will initially focus on transcribing the Cuneiform writing system used in the ancient 1795 chars

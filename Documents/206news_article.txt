@@ -1,0 +1,3 @@
+Title:Programmieren in Zeiten der Pandemie  Studie untersucht die Folgen
+Description:Die Veranstalter der Studie suchen Softwareentwickler die sich an einer Umfrage zu den Auswirkungen des zwangsweisen Umzugs ins HomeOffice beteiligen.
+Content:Unter dem Titel Pandemic Programming luft derzeit eine Studie zu den Auswirkungen der verpflichtenden Heimarbeit auf den Bereich der Softwareentwicklung. Die Organisatoren bitten Entwickler sich dafr an einer OnlineUmfrage zu beteiligen die etwa zwanzi 1744 chars

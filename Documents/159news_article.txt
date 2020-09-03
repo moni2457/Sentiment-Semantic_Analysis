@@ -1,0 +1,3 @@
+Title:At Least One Computer Chip Can Now Smell
+Description:Loihi a neuromorphic research chip developed by Intel has learned to smell according to a recent report from PCWorld. Intel teamed up with Cornell University to train Loihi to recognize the scent of 10 potentially hazardous chemicals like acetone ammonia
+Content:Loihi a neuromorphic research chip developed by Intel has learned to smell according to a recent report from PCWorld. Intel teamed up with Cornell University to train Loihi to recognize the scent of 10 potentially hazardous chemicals like acetone ammonia 2453 chars

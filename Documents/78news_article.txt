@@ -1,0 +1,5 @@
+Title:Prince Charles COVID19 Diagnosis Details  ET Canada
+Description:Prince Charles COVID19 Diagnosis Details ET Canada Prince Charles tests positive for coronavirus CBC.ca Prince Charles Spoke to Sons Prince Harry and Prince William About His Coronavirus Diagnosis PEOPLE Prince Charles tests positive for new coronavirus CTV 
+Content:getSimpleStringdata.title
+getSimpleStringdata.description
+getSimpleStringdata.videoCountText

@@ -1,0 +1,4 @@
+Title:Uber resumes selfdriving car tests on San Francisco streets
+Description:Two years after Uber suspended all selfdriving car tests following the death of a pedestrian it is creeping back onto San Franciscos streets. Today Uber Advanced Technologies Group ATG resumed testing its autonomous vehicles in the city TechCrunch repo
+Content:The company will reportedly limit testing to a few weeks with two Volvo XC90 vehicles. It will only test during daylight and a safety driver and copilot will be present in each vehicle. Uber is clearly and understandably proceeding with caution.
+Uber ATG 742 chars

@@ -1,0 +1,5 @@
+Title:Coronavirus outbreak Ontario premier ministers urge people to selfpolice as cases rise  FULL  Global News
+Description:Coronavirus outbreak Ontario premier ministers urge people to selfpolice as cases rise  FULL Global News Private companies offer to help manufacturer ventilators amid COVID19 crisis CTV News Coronavirus Ontario cabinet minister in selfisolation awai
+Content:getSimpleStringdata.title
+getSimpleStringdata.description
+getSimpleStringdata.videoCountText

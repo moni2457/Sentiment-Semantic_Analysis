@@ -1,0 +1,4 @@
+Title:Hey friends. We know its a crazy time for the economy but dont forget to enable 2FA for payments by Saturday
+Description:Deadline for multifactor authentication in UK banking looms Saturday is the delayed deadline for UK banks and financial institutions to have implemented twofactor authentication for payment transactions.
+Content:Saturday is the delayed deadline for UK banks and financial institutions to have implemented twofactor authentication for payment transactions.
+This is the result of the EU Payment Services Directive 2 PSD2 for Strong Customer Authentication SCA. This 2033 chars

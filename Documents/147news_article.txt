@@ -1,0 +1,5 @@
+Title:Researchers to develop coronavirus tests using SFUinvented RNA imaging technique.  Simon Fraser University
+Description:Researchers to develop coronavirus tests using SFUinvented RNA imaging technique. Simon Fraser University Coronavirus testing kits to be developed using SFUinvented RNA imaging technology EurekAlert Coronavirus testing kits to be developed using new RNA ima
+Content:getSimpleStringdata.title
+getSimpleStringdata.description
+getSimpleStringdata.videoCountText

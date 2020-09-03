@@ -1,0 +1,5 @@
+Title:Working with Statistics Canada Data in R Part 5 Retrieving Census Data
+Description:Back to Working with Statistics Canada Data in R Part 4. Introduction Searching for Data Find Census Datasets Find Census Regions Find Census Vectors Retrieve Census Data Annex Notes and Definitions Introduction Now that we are ready to start working with C
+Content:This article was first published on Data Enthusiasts Blog and kindly contributed to Rbloggers. You can report issue about the content on this page here
+Want to share your content on Rbloggers click here if you have a blog or here if you dont.
+Bac 17887 chars
